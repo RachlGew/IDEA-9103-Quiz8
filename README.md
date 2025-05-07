@@ -23,7 +23,7 @@
 ## Part 2: Coding Technique Exploration
 
 - *Inspiration*
-  ![Image of Earth Moon animation](readmeimages/earth-moon-emoji-orbit-2.gif)
+  - ![Image of Earth Moon animation](readmeimages/earth-moon-emoji-orbit-2.gif)
   #### [Earth Moon Emoji Orbit](https://happycoding.io/tutorials/p5js/arrays/earth-moon-emoji-orbit)
   ### Rotation animation and wave point color change can be achieved through this case.
 
