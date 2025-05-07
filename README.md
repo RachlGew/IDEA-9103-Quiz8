@@ -4,11 +4,11 @@
 ## Part 1: Imaging Technique Inspiration
 
 - *Inspiration*
-  1. ![Yayoi Kusama's Polka Dot Installation](readmeimages/Polka Dot Installation.jpg)
+  1. ![Yayoi Kusama's Polka Dot Installation](readmeimages/PolkaDotInstallation.jpg)
   #### [Retrieved from Pinterest](https://www.pinterest.com/pin/11118330328169357/)
   ### Figure 1: Yayoi Kusama's immersive polka dot installation, the repetition and perspective of the dots enhance the sense of movement.
 
-  2. ![Bridget Riley's "Movement in Squares"](readmeimages/Movement in Squares.jpg)
+  2. ![Bridget Riley's "Movement in Squares"](readmeimages/MovementinSquares.jpg)
   #### [Retrieved from Pinterest](https://www.pinterest.com/pin/157766793180021138/)
   ### Figure 2: Bridget Riley creates a "trembling" effect through the gradient arrangement of black and white squares, inspiring a visual rhythm of rotation.
 
