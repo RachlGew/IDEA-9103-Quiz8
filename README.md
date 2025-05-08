@@ -1,5 +1,5 @@
 # IDEA-9103-Quiz8
-# IDEA 9103 Quiz 9 Wheels of Fortune: A Digital Reimagining
+# Wheels of Fortune: A Digital Reimagining
 
 ## Part 1: Imaging Technique Inspiration
 
