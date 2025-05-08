@@ -6,7 +6,7 @@
 - *Inspiration*
   1. ![Pacita Abad's Wheel of Fortune](readmeimages/Pacita-Abad-Wheels-of-fortune.jpg)
     *Figure 1: Pacita Abad’s Wheels of Fortune is notable for its bold colors, multi-layered collage textures, and rotating visual language.*
-    The main design inspiration I'm interested is the *rotation of wheels* and *the flow of polka dots*. 
+    The main design inspiration I'm interested is the **rotation of wheels** and **the flow of polka dots**. 
 
   2. ![Yayoi Kusama's Polka Dot Installation](readmeimages/PolkaDotInstallation.jpg)
   #### [Retrieved from Pinterest](https://www.pinterest.com/pin/11118330328169357/)
