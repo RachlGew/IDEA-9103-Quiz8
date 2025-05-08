@@ -1,16 +1,20 @@
 # IDEA-9103-Quiz8
-# IDEA 9103 Quiz 9 Wheels of Fortune: A Digital Reimagining
+# Wheels of Fortune: A Digital Reimagining
 
 ## Part 1: Imaging Technique Inspiration
 
 - *Inspiration*
-  1. ![Yayoi Kusama's Polka Dot Installation](readmeimages/PolkaDotInstallation.jpg)
-  #### [Retrieved from Pinterest](https://www.pinterest.com/pin/11118330328169357/)
-    *Figure 1: Yayoi Kusama's immersive polka dot installation, the repetition and perspective of the dots enhance the sense of movement.*
+  1. ![Pacita Abad's Wheel of Fortune](readmeimages/Pacita-Abad-Wheels-of-fortune.jpg)
+    *Figure 1: Pacita Abad’s Wheels of Fortune is notable for its bold colors, multi-layered collage textures, and rotating visual language.*
+    The main design inspiration I'm interested is the *rotation of wheels* and *the flow of polka dots*. 
 
-  2. ![Bridget Riley's "Movement in Squares"](readmeimages/MovementinSquares.jpg)
+  2. ![Yayoi Kusama's Polka Dot Installation](readmeimages/PolkaDotInstallation.jpg)
+  #### [Retrieved from Pinterest](https://www.pinterest.com/pin/11118330328169357/)
+    *Figure 2: Yayoi Kusama's immersive polka dot installation, the repetition and perspective of the dots enhance the sense of movement.*
+
+  3. ![Bridget Riley's "Movement in Squares"](readmeimages/MovementinSquares.jpg)
   #### [Retrieved from Pinterest](https://www.pinterest.com/pin/157766793180021138/)
-    *Figure 2: Bridget Riley creates a "trembling" effect through the gradient arrangement of black and white squares, inspiring a visual rhythm of rotation.*
+    *Figure 3: Bridget Riley creates a "trembling" effect through the gradient arrangement of black and white squares, inspiring a visual rhythm of rotation.*
 
 - ### **Dynamic polka dot arrangement** 
   Combining Yayoi Kusama's flowing dots with the geometric movement of Op Art: Gradient dots are arranged radially along the spokes of Wheels of Fortune, with the inner circle slowing down (symbolizing stability) and the outer circle accelerating (metaphorically losing control), echoing Abad's exploration of the flow of fate.
